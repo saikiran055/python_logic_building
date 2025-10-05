@@ -1,3 +1,5 @@
+#Find the sum of two numbers,difference between two numbers,product of two numbers
+#find quotient of two numbers,remainder of a division,Swap two numbers.
 a,b=input("enter 2 inputs with space:").split()
 print("addition:",int(a)+int(b))
 print("subtraction:",int(a)-int(b))
