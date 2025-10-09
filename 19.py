@@ -4,4 +4,4 @@ p=float(p)
 r=float(r)
 t=float(t)
 ci=(p*(1+r/100)**t)-p
-print("simple interest is:",ci)
+print("compound interest is:",ci)
